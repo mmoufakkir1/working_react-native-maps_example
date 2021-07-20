@@ -51,7 +51,7 @@
     "lodash": "^4.17.15",
     "prop-types": "^15.5.10",
     "react": "^16.3.2",
-    "react-native": "^0.60.4"
+    "react-native": "^0.62.3"
   },
   "rnpm": {
     "android": {
